@@ -1,7 +1,7 @@
 import setuptools
 long_description = 'My first pip library'
 setuptools.setup(
-     name='info121',  
+     name='testpackages',  
      version='0.1',
      author="Tim Richards",
      author_email="richards@cs.umass.edu",
